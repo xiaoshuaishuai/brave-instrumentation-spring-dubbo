@@ -1,0 +1,2 @@
+braveProviderDubboFilter=io.zipkin.brave.BraveProviderDubboFilter
+braveConsumerDubboFilter=io.zipkin.brave.BraveConsumerDubboFilter
