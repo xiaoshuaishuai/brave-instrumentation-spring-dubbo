@@ -1,9 +1,8 @@
-# brave-instrumentation-spring-dubbo
 brave-instrumentation-spring-dubbo
 ===
 官方 https://github.com/openzipkin/brave/tree/master/instrumentation  扩展
 
-		使用方式：
+使用方式：
 
 		1.pom.xml
 				<dependency>
